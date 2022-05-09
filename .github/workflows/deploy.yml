@@ -1,4 +1,4 @@
-name: Deploy Workflow Azure!
+name: Deploy Workflow Azure
 on: [push]
 env:
   AZURE_WEBAPP_NAME: launchx-node-v2
